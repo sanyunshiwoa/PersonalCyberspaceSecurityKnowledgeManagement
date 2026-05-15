@@ -15,7 +15,7 @@
 
 | 漏洞编号 | 组件 | 危害等级 | 发布时间 | 笔记链接 |
 |----------|------|----------|----------|----------|
-| CVE‐2025‐32023 | Redis | 高危(7.0) |  | [#1 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/1) |
+| CVE‐2025‐32023 | Redis | 高危(7.0) | 2025-07 | [#1 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/1) |
 | CVE‐2026‐25994 | PJSIP | 高危(8.1) | 2026-02 | [#2 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/2) |
 | CVE‐2025‐9074 | Docker Desktop | 严重(9.3) | 2025-08 | [#2 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/3) |
 
@@ -42,7 +42,7 @@
 
 - 总文章数：**3**
 - 漏洞复现：**3**
-- 合规解读：**0**
+- 等保解读：**0**
 - 运维技巧：**0**
 
 
