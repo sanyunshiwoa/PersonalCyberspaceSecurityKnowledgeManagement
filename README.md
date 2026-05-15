@@ -17,7 +17,7 @@
 |----------|------|----------|----------|----------|
 | CVE‐2025‐32023 | Redis | 高危(7.0) | 2025-07 | [#1 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/1) |
 | CVE‐2026‐25994 | PJSIP | 高危(8.1) | 2026-02 | [#2 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/2) |
-| CVE‐2025‐9074 | Docker Desktop | 严重(9.3) | 2025-08 | [#2 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/3) |
+| CVE‐2025‐9074 | Docker Desktop | 严重(9.3) | 2025-08 | [#3 笔记](https://github.com/sanyunshiwoa/Security-Notes/issues/3) |
 
 
 ### 🛡️ 等保2.0理解（合规视角）
