@@ -23,7 +23,7 @@
 ### 🛡️ 等保2.0解读（合规视角）
 > 从技术角度解读等保2.0的控制项。
 
-- [#4 等保2.0等级划分解读]((https://github.com/sanyunshiwoa/Security-Notes/issues/4)) - 聚焦主机安全、数据库安全、应用安全的测评要点
+- [#4 等保2.0等级划分解读](https://github.com/sanyunshiwoa/Security-Notes/issues/4)
 - [#x 等保2.0安全定级解读](link) - 定级要素、流程等简介
 - [#x 等保2.0基本要求解读](link) - 安全等级保护基本要求/概念
 - [#x 等保2.0安全实施解读](link) - 实施流程、对象、需求等专业分析
